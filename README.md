@@ -11,7 +11,7 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 ## Coursebook
 [Open PDF - Europe-and-US-DrugDevice-Product-Development-and-Regulations-course-program_20220503.pdf](./doc/Europe-and-US-DrugDevice-Product-Development-and-Regulations-course-program_20220503.pdf)
 
-## The “meet-the-instructors” sessions 
+## Meet-the-instructors sessions 
 * SV 1717
 * Monday,	August 22 from 13:30 to 15:30.
 * Thursday,	August 25 from 10:00 to 12:00.
@@ -19,6 +19,27 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 * Thursday,	September 15 from 16:30 to 19:00.
 * Thursday,	September 22 from 16:30 to 19:00.
 * Thursday,	September 29 from 16:30 to 19:00.
+
+## Structure
+
+This respositry is organised as follows.
+Content received will be in `./doc/week/topic/docs`.
+Content generated will be in `./doc/week/topic/notes`.
+Content that is larger will receive specific dir in `./projects/`
+
+```
+├── doc
+│   ├── week1
+│   │   ├── topic
+│   │   │   ├── docs
+│   │   │   ├── notes
+│   ├── week2
+│
+├── projects
+│   ├── topic
+│   ├── topic
+
+```
 
 ## PROGRAM
 #### Enroll
