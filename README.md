@@ -23,9 +23,11 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 ## Structure
 
 This respositry is organised as follows.
-Content received will be in `./doc/week/topic/docs`.
-Content generated will be in `./doc/week/topic/notes`.
-Content that is larger will receive specific dir in `./projects/`
+* Content received will be in `./doc/week/topic/docs`.
+* Content generated will be in `./doc/week/topic/notes`.
+* Content that is larger will receive specific dir in `./projects/`
+
+Written notes will have `tags : [example, week1, etc]` which can be used to cross-link topics. 
 
 ```
 ├── doc
