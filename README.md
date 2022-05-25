@@ -22,8 +22,8 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 
 ## PROGRAM
 #### Enroll
-	- [x] Completed 202220525
-
+  - [x] Completed 202220525
+[x] 
 #### Week 1
 	- [ ] Welcome by: Prof. Bart Deplancke, Vice Dean of Innovation, EPFL.
 	- [ ] Keynote lecture Research to Business by: Dr. Seng Chin Mah, Chairman of the Board, BioVersys AG.
@@ -32,7 +32,7 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 	- [ ] Explanation of case studies and expectations.
 	- [ ] Formation of teams with case studies and identification of group leaders.
 	- [ ] Drug Development Process, Preclinical, clinical, CMC. EU Regulatory Process. Presented by: Gautam Maitra, EPFL SV, Catalyze4Life.
- 	- [ ] Overview of Preclinical Requirements – small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
+ 	- [ ] Overview of Preclinical Requirements – small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
 	- [ ] Clinical Trials in the EU and UK (post-Brexit). Presented by: Anne Hamel, Senior Manager Regulatory Affairs at AC Immune SA.
 	- [ ] FONGIT – Raising the Initial Capital. Presented by: Emmanuel de Watteville, Head of Financing Programs
 	- [ ] Satellite lecture – Preclinical Strategy for Developing Drugs in
