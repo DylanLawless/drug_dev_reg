@@ -9,7 +9,7 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 <https://www.epfl.ch/schools/sv/school-of-life-sciences/innovation/catalyze4life/educate4life/>
 
 ## Coursebook
-[Open PDF - Europe-and-US-DrugDevice-Product-Development-and-Regulations-course-program_20220503.pdf](./doc/Europe-and-US-DrugDevice-Product-Development-and-Regulations-course-program_20220503.pdf)
+[Open PDF - Europe-and-US-DrugDevice-Product-Development-and-Regulations-course-program_20220503.pdf](./doc/week0/Europe-and-US-DrugDevice-Product-Development-and-Regulations-course-program_20220503.pdf)
 
 ## Meet-the-instructors sessions 
 * SV 1717
