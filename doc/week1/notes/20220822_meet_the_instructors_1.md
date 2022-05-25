@@ -1,4 +1,12 @@
+
+---
+tags: [meet, week1]
+
+---
+
 # meet the instructors 1
+## 
+
 * Monday
 * 20220822
 * SV1717
