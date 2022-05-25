@@ -23,46 +23,46 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 ## PROGRAM
 #### Enroll
   - [x] Completed 202220525
-[x] 
+
 #### Week 1
-	- [ ] Welcome by: Prof. Bart Deplancke, Vice Dean of Innovation, EPFL.
-	- [ ] Keynote lecture Research to Business by: Dr. Seng Chin Mah, Chairman of the Board, BioVersys AG.
-	- [ ] Drug Development Process, and External Case Study on Drug Detailed structure, content and deliverables of the course.
-	- [ ] Explanation of multiple-choice quizzes (20 questions x 3).
-	- [ ] Explanation of case studies and expectations.
-	- [ ] Formation of teams with case studies and identification of group leaders.
-	- [ ] Drug Development Process, Preclinical, clinical, CMC. EU Regulatory Process. Presented by: Gautam Maitra, EPFL SV, Catalyze4Life.
- 	- [ ] Overview of Preclinical Requirements – small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
-	- [ ] Clinical Trials in the EU and UK (post-Brexit). Presented by: Anne Hamel, Senior Manager Regulatory Affairs at AC Immune SA.
-	- [ ] FONGIT – Raising the Initial Capital. Presented by: Emmanuel de Watteville, Head of Financing Programs
-	- [ ] Satellite lecture – Preclinical Strategy for Developing Drugs in
+  - [ ] Welcome by: Prof. Bart Deplancke, Vice Dean of Innovation, EPFL.
+  - [ ] Keynote lecture Research to Business by: Dr. Seng Chin Mah, Chairman of the Board, BioVersys AG.
+  - [ ] Drug Development Process, and External Case Study on Drug Detailed structure, content and deliverables of the course.
+  - [ ] Explanation of multiple-choice quizzes (20 questions x 3).
+  - [ ] Explanation of case studies and expectations.
+  - [ ] Formation of teams with case studies and identification of group leaders.
+  - [ ] Drug Development Process, Preclinical, clinical, CMC. EU Regulatory Process. Presented by: Gautam Maitra, EPFL SV, Catalyze4Life.
+  - [ ] Overview of Preclinical Requirements – small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
+  - [ ] Clinical Trials in the EU and UK (post-Brexit). Presented by: Anne Hamel, Senior Manager Regulatory Affairs at AC Immune SA.
+  - [ ] FONGIT – Raising the Initial Capital. Presented by: Emmanuel de Watteville, Head of Financing Programs
+  - [ ] Satellite lecture – Preclinical Strategy for Developing Drugs in
 Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disease at AbbVie Greater Boston.
 
 ### Week 2
-	- [ ] Device Development Process, and External Case Study on Devices.
-	- [ ] MDR, MedTech Regulatory landscape, Three Pillars – Technology, Biology, Clinical.
-	- [ ] International Standards. Ary Saaman, Director, Device Technology Management, Alvotech Swiss AG.
-	- [ ] Summary of US Regulations. Presented by: Ary Saaman.
-	- [ ] Explanation of multiple-choice questions (20).
+  - [ ] Device Development Process, and External Case Study on Devices.
+  - [ ] MDR, MedTech Regulatory landscape, Three Pillars – Technology, Biology, Clinical.
+  - [ ] International Standards. Ary Saaman, Director, Device Technology Management, Alvotech Swiss AG.
+  - [ ] Summary of US Regulations. Presented by: Ary Saaman.
+  - [ ] Explanation of multiple-choice questions (20).
 
 ### Week 3
-	- [ ] Role of Quality Compliance in the Regulated Industry.
-	- [ ] Role of Quality and Compliance. Presented by: Claude Ammann, Claude Ammann Consulting, Epalinges, Switzerland.
-	- [ ] US FDA, International Engagement, and the US-EU Mutual Recognition Agreement Presented by: Matthew Scherer, US Food and Drug Administration, Europe Office.
-	- [ ] Explanation of multiple-choice questions (20).
-	- [ ] Satellite Lecture - Biotechnology – Virus Filtration Regulatory updates. Presented by: Paul Cashen, Pall Biotech.
-	- [ ] Satellite Lecture - Biotechnology – Virus Filtration Technology updates. Presented by: Lionnel Lueginbuehl, Pall Biotech
+  - [ ] Role of Quality Compliance in the Regulated Industry.
+  - [ ] Role of Quality and Compliance. Presented by: Claude Ammann, Claude Ammann Consulting, Epalinges, Switzerland.
+  - [ ] US FDA, International Engagement, and the US-EU Mutual Recognition Agreement Presented by: Matthew Scherer, US Food and Drug Administration, Europe Office.
+  - [ ] Explanation of multiple-choice questions (20).
+  - [ ] Satellite Lecture - Biotechnology – Virus Filtration Regulatory updates. Presented by: Paul Cashen, Pall Biotech.
+  - [ ] Satellite Lecture - Biotechnology – Virus Filtration Technology updates. Presented by: Lionnel Lueginbuehl, Pall Biotech
 
  ### Week 4
-	- [ ] Intellectual Property – A key to Innovation - Intellectual Property in the 21st Century Presented by: Natalia Giovannini, Technology Transfer Manager at EPFL.
-	- [ ] Intellectual Property Presented by: Bojana Portmann, AVP IP and Business Development at AC Immune, Lausanne, Vaud, Switzerland.
+  - [ ] Intellectual Property – A key to Innovation - Intellectual Property in the 21st Century Presented by: Natalia Giovannini, Technology Transfer Manager at EPFL.
+  - [ ] Intellectual Property Presented by: Bojana Portmann, AVP IP and Business Development at AC Immune, Lausanne, Vaud, Switzerland.
 
 ### Week 5
-	- [ ] Project Management Presented by: Stephan Proennecke.
+  - [ ] Project Management Presented by: Stephan Proennecke.
 
 ### Week 6
-	- [ ] Managing Cultural Diversity in Scientific and Technical Professions. Presented by: Lionel Laroche, President at MultiCultural Business Solutions Inc.
-	- [ ] CASE STUDY – Doing a Swiss Life Science PhD out of Tanzania – Challenges and Opportunities. Presented by: Lorenz Hofer, PhD Candidate, Swiss Tropical and Public Health Institute, Allschwil.
+  - [ ] Managing Cultural Diversity in Scientific and Technical Professions. Presented by: Lionel Laroche, President at MultiCultural Business Solutions Inc.
+  - [ ] CASE STUDY – Doing a Swiss Life Science PhD out of Tanzania – Challenges and Opportunities. Presented by: Lorenz Hofer, PhD Candidate, Swiss Tropical and Public Health Institute, Allschwil.
 
 ## The 10 Course Goals and Objectives
 
