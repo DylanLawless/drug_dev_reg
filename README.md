@@ -1,7 +1,9 @@
 # Drug/Device Product Development and Regulation – Europe and US
 
+## [Glossary.md](glossary.md)
+
 ## About
-This repo is the work done during the course in EPFL by Educate4Life:
+This repo is my (or possibly shared) work done during the course in EPFL by Educate4Life:
 _Drug/Device Product Development and Regulation – Europe and US_.
 
 The course starts on August 22 and ends on September 30, 2022. This is a 6-week intensive, case study-based course (60-70 hours in total).
@@ -106,7 +108,7 @@ Mail : catalyze4life@epfl.ch
 
 ## External learning (ext_)
 
-I am adding my external learning/courses here for now. I may move them to a separate repo in the future since they are diverse; micro/macro econ, philiosophy econ, history, and math/stats.
+I am adding my external learning/courses here for now. I may move them to a separate repo in the future since they are diverse; micro/macro econ, philosophy econ, history, and math/stats.
 All external learning will be arranged in directories named as "ext_". For example "ext_finance".
 
 ### Mathematics with app in finance
@@ -115,15 +117,15 @@ I am watching these lectures but not explicitly making documentation for it.
 * [MIT 18.S096 Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
 * Video link: <https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLaLOVNqqD-2G5SSErHfvGqs7ev7kE8_fj&index=1&t=161s>
 
-### Ecomonic evolving
+### History of economic thought
 
-I am keeping my notes on macroeconomics here for now. While not directly relevent, I want this notes available for perspective.
+I am keeping my notes on macroeconomics here for now. While not directly relevant, I want this notes available for perspective.
 <https://www.amazon.com/Economics-Evolving-History-Economic-Thought/dp/069114842>
 
 * "ext_econ"
 
 ## Cloning and keys
-Since I work with others and use different accounts, machines, emails, here are some notes incase you or I need them.
+Since I work with others and use different accounts, machines, emails, here are some notes in case you or I need them.
 
 To push to multiple github accounts with different keys,
 and different machines, these settings can be used.
