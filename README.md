@@ -1,7 +1,7 @@
 # Drug/Device Product Development and Regulation – Europe and US
 
 ## About
-This repo is the work done during the course n EPFL by Educate4Life:
+This repo is the work done during the course in EPFL by Educate4Life:
 _Drug/Device Product Development and Regulation – Europe and US_.
 
 The course starts on August 22 and ends on September 30, 2022. This is a 6-week intensive, case study-based course (60-70 hours in total).
