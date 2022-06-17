@@ -104,17 +104,16 @@ Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disea
 Program Director : Gautam Maitra
 Mail : catalyze4life@epfl.ch
 
-## External learning
+## External learning (ext_)
 
-I am adding my external learning/courses here for now. I may move them to a separate repo in the future.
+I am adding my external learning/courses here for now. I may move them to a separate repo in the future since they are diverse; micro/macro econ, philiosophy econ, history, and math/stats.
 All external learning will be arranged in directories named as "ext_". For example "ext_finance".
 
 ### Mathematics with app in finance
+
 I am watching these lectures but not explicitly making documentation for it.
-
-<https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/>
-
-Video link: <https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLaLOVNqqD-2G5SSErHfvGqs7ev7kE8_fj&index=1&t=161s>
+* [MIT 18.S096 Topics in Mathematics with Applications in Finance](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/)
+* Video link: <https://www.youtube.com/watch?v=wvXDB9dMdEo&list=PLaLOVNqqD-2G5SSErHfvGqs7ev7kE8_fj&index=1&t=161s>
 
 ### Ecomonic evolving
 
