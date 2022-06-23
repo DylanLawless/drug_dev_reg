@@ -47,7 +47,7 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
 
 ## PROGRAM
 #### Enroll
-  - [x] Completed 202220525
+  - [x] Completed 20220525
 
 #### Week 1
   - [ ] Welcome by: Prof. Bart Deplancke, Vice Dean of Innovation, EPFL.
