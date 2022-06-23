@@ -1,10 +1,10 @@
-# Drug/Device Product Development and Regulation – Europe and US
+# Drug/Device Product Development and Regulation - Europe and US
 
 ## [Glossary.md](glossary.md)
 
 ## About
 This repo is my (or possibly shared) work done during the course in EPFL by Educate4Life:
-_Drug/Device Product Development and Regulation – Europe and US_.
+_Drug/Device Product Development and Regulation - Europe and US_.
 
 The course starts on August 22 and ends on September 30, 2022. This is a 6-week intensive, case study-based course (60-70 hours in total).
 
@@ -57,15 +57,15 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
   - [ ] Explanation of case studies and expectations.
   - [ ] Formation of teams with case studies and identification of group leaders.
   - [ ] Drug Development Process, Preclinical, clinical, CMC. EU Regulatory Process. Presented by: Gautam Maitra, EPFL SV, Catalyze4Life.
-  - [ ] Overview of Preclinical Requirements – small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
+  - [ ] Overview of Preclinical Requirements - small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
   - [ ] Clinical Trials in the EU and UK (post-Brexit). Presented by: Anne Hamel, Senior Manager Regulatory Affairs at AC Immune SA.
-  - [ ] FONGIT – Raising the Initial Capital. Presented by: Emmanuel de Watteville, Head of Financing Programs
-  - [ ] Satellite lecture – Preclinical Strategy for Developing Drugs in
+  - [ ] FONGIT - Raising the Initial Capital. Presented by: Emmanuel de Watteville, Head of Financing Programs
+  - [ ] Satellite lecture - Preclinical Strategy for Developing Drugs in
 Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disease at AbbVie Greater Boston.
 
 ### Week 2
   - [ ] Device Development Process, and External Case Study on Devices.
-  - [ ] MDR, MedTech Regulatory landscape, Three Pillars – Technology, Biology, Clinical.
+  - [ ] MDR, MedTech Regulatory landscape, Three Pillars - Technology, Biology, Clinical.
   - [ ] International Standards. Ary Saaman, Director, Device Technology Management, Alvotech Swiss AG.
   - [ ] Summary of US Regulations. Presented by: Ary Saaman.
   - [ ] Explanation of multiple-choice questions (20).
@@ -75,11 +75,11 @@ Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disea
   - [ ] Role of Quality and Compliance. Presented by: Claude Ammann, Claude Ammann Consulting, Epalinges, Switzerland.
   - [ ] US FDA, International Engagement, and the US-EU Mutual Recognition Agreement Presented by: Matthew Scherer, US Food and Drug Administration, Europe Office.
   - [ ] Explanation of multiple-choice questions (20).
-  - [ ] Satellite Lecture - Biotechnology – Virus Filtration Regulatory updates. Presented by: Paul Cashen, Pall Biotech.
-  - [ ] Satellite Lecture - Biotechnology – Virus Filtration Technology updates. Presented by: Lionnel Lueginbuehl, Pall Biotech
+  - [ ] Satellite Lecture - Biotechnology - Virus Filtration Regulatory updates. Presented by: Paul Cashen, Pall Biotech.
+  - [ ] Satellite Lecture - Biotechnology - Virus Filtration Technology updates. Presented by: Lionnel Lueginbuehl, Pall Biotech
 
  ### Week 4
-  - [ ] Intellectual Property – A key to Innovation - Intellectual Property in the 21st Century Presented by: Natalia Giovannini, Technology Transfer Manager at EPFL.
+  - [ ] Intellectual Property - A key to Innovation - Intellectual Property in the 21st Century Presented by: Natalia Giovannini, Technology Transfer Manager at EPFL.
   - [ ] Intellectual Property Presented by: Bojana Portmann, AVP IP and Business Development at AC Immune, Lausanne, Vaud, Switzerland.
 
 ### Week 5
@@ -87,7 +87,7 @@ Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disea
 
 ### Week 6
   - [ ] Managing Cultural Diversity in Scientific and Technical Professions. Presented by: Lionel Laroche, President at MultiCultural Business Solutions Inc.
-  - [ ] CASE STUDY – Doing a Swiss Life Science PhD out of Tanzania – Challenges and Opportunities. Presented by: Lorenz Hofer, PhD Candidate, Swiss Tropical and Public Health Institute, Allschwil.
+  - [ ] CASE STUDY - Doing a Swiss Life Science PhD out of Tanzania - Challenges and Opportunities. Presented by: Lorenz Hofer, PhD Candidate, Swiss Tropical and Public Health Institute, Allschwil.
 
 ## The 10 Course Goals and Objectives
 
@@ -105,6 +105,17 @@ Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disea
 ## Contact
 Program Director : Gautam Maitra
 Mail : catalyze4life@epfl.ch
+
+
+## EU regulation
+
+* Questions and Answers on the progressive roll-out of the new In Vitro Diagnostic Medical Devices Regulation: <https://ec.europa.eu/commission/presscorner/detail/en/qanda_21_5210>
+
+> * "The  [In Vitro Diagnostic Medical Device Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0746-20170505) (IVD Regulation) entered into force in May 2017 and becomes applicable on 26 May 2022. 
+> * "The IVD Regulation seeks to ensure a high level of public health and patient safety taking into account scientific progress, as well as smooth operation of the single market for these products. 
+> * "It was adopted together with the [Medical Devices Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0745-20170505) that is applicable since 26 May 2021."
+
+* Example of complience by [Blueprint Genetics](https://blueprintgenetics.com/news/blueprint-genetics-a-quality-leader-in-genetic-testing-embraces-new-eu-regulation-ivdr/) with _In Vitro Diagnostic Regulation (EU) 2017/746 (IVDR)_.
 
 ## External learning (ext_)
 
