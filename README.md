@@ -1,9 +1,6 @@
 # Drug/Device Product Development and Regulation - Europe and US
 
-* TOC
-{:toc}
-
-## [Glossary.md](glossary.md)
+* [Glossary.md](glossary.md)
 
 ## About
 This repo is my (or possibly shared) work done during the course in EPFL by Educate4Life:
