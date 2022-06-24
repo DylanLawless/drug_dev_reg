@@ -144,8 +144,34 @@ The SME provides <https://www.easygov.swiss/easygov/#/en> and includes:
 * Reports and permits under the law on foreign nationals
 * Federal Supervisory Board for Foundations
 
-## External learning (ext_)
+## Checklist: Forming a company
+[Source admin.ch](https://www.kmu.admin.ch/kmu/en/home/concrete-know-how/setting-up-sme/starting-business/choosing-legal-structure/checklist-forming-a-company.html). The main points to be respected are outlined below:
 
+### All legal forms
+* Budget for start-up costs
+* Arrange a tax consultation and calculation in relation to the formation
+* Determine a business name (to be clarified with the cantonal commercial registry office)
+* Register for the Old-Age and Survivor Insurance (OSI) pension fund
+* Determine VAT status. If VAT must be paid, register with the Federal Tax Administration.
+
+### With employees
+* Register employees for the Old-Age and Survivor Insurance pension fund and take out the mandatory insurance for the Occupational Pension Plan (OPP) and Professional Accident Insurance (PAI) (note: owners of companies with share capital [corps. and LLCs] are subject to the same social insurance obligations as employees)
+
+### All legal forms, excluding sole proprietorships
+* Prepare a business contract and articles of association
+* Register with the commercial register
+* Determine the necessary bodies: board of directors/partners, management, administration or committee; auditor
+* Send formation instruments to a notary for review and to the commercial register; adapt if necessary
+* Request a declaration of acceptance from the auditor
+* Organize a general meeting
+
+### LLC and Corp.
+* Determine the corporate capital, in particular the share capital, distribution and settlement (payment of dividends)
+* Choose a bank for the corporate shares and open an account
+* Pay the amount to the bank for paid-in corporate shares and member's shares (present a copy of the registration with the commercial register)
+* Issue a certificate of corporate shares and units, begin keeping accounting records for the shares and the company
+
+## External learning (ext_)
 I am adding my external learning/courses here for now. I may move them to a separate repo in the future since they are diverse; micro/macro econ, philosophy econ, history, and math/stats.
 All external learning will be arranged in directories named as "ext_". For example "ext_finance".
 
