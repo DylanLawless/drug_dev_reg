@@ -117,6 +117,33 @@ Mail : catalyze4life@epfl.ch
 
 * Example of complience by [Blueprint Genetics](https://blueprintgenetics.com/news/blueprint-genetics-a-quality-leader-in-genetic-testing-embraces-new-eu-regulation-ivdr/) with _In Vitro Diagnostic Regulation (EU) 2017/746 (IVDR)_.
 
+## Choosing a legal structure in Switzerland
+* SME portal <https://www.kmu.admin.ch/kmu/en/home/concrete-know-how/setting-up-sme/starting-business/choosing-legal-structure.html>
+
+* The administration structure comes from:
+```
+├── The Federal Council
+│   ├── EAER: Federal Department of Economic Affairs, Education and Researc
+│   │   ├── SECO: State Secretariat for Economic Affairs
+│   │   │   ├── SME Portal small and medium-sized enterprises
+```
+
+The SME provides <https://www.easygov.swiss/easygov/#/en> and includes:
+
+* Entry in the Commercial Register
+* Corporate taxes
+* Social security/insurances
+* VAT
+* Insurance
+* Debt enforcement proceedings
+* Suva salary declaration
+* Support with financing (Confederation supported bank loans)
+* Protection rights (IIP)
+* SOGC publications (e.g. shareholder's meeting invitations, notifications for annual financial statements and dividend payments, etc.)
+* Working conditions
+* Reports and permits under the law on foreign nationals
+* Federal Supervisory Board for Foundations
+
 ## External learning (ext_)
 
 I am adding my external learning/courses here for now. I may move them to a separate repo in the future since they are diverse; micro/macro econ, philosophy econ, history, and math/stats.
