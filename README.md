@@ -111,19 +111,20 @@ Mail : catalyze4life@epfl.ch
 
 * Guidance - MDCG endorsed documents and other guidance
 <https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en>
-This page provides a range of documents to assist stakeholders in applying 
+* This page provides a range of documents to assist stakeholders in applying 
 	- [Regulation (EU) 2017/745 on medical devices (MDR): CELEX:02017R0746-20170505](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0746-20170505) and 
 	- [Regulation (EU) 2017/746 on in vitro diagnostic medical devices (IVDR): CELEX:02017R0745-20200424](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0745-20200424)
 
 > MDR: "There are over 500,000 types of medical devices on the EU market. Examples of medical devices are contact lenses, x-ray machines, ventilators, pacemakers, software, breast implants, hip replacements and sticking plasters."
+
 > IVDR: "In vitro diagnostic medical devices are used to perform tests on samples, include HIV blood tests, pregnancy tests, COVID-19 tests and blood sugar monitoring systems for diabetics."
->
+
 ### MDR
 * Press release: The MDR <https://ec.europa.eu/commission/presscorner/detail/en/ip_21_2617> and Q&A <https://ec.europa.eu/commission/presscorner/detail/en/qanda_21_2619>
 * Entered into force in May 2017 and becomes applicable on 26 May 2022. 
 
 ### IVDR
-* Press release: Q&A on the progressive roll-out of the new In Vitro Diagnostic Medical Devices Regulation: <https://ec.europa.eu/commission/presscorner/detail/en/qanda_21_5210>
+* Press release: Q&A on the progressive roll-out of the new IVDR: <https://ec.europa.eu/commission/presscorner/detail/en/qanda_21_5210>
 * Applicable since 26 May 2021.
 
 * Example of complience by [Blueprint Genetics](https://blueprintgenetics.com/news/blueprint-genetics-a-quality-leader-in-genetic-testing-embraces-new-eu-regulation-ivdr/) with _In Vitro Diagnostic Regulation (EU) 2017/746 (IVDR)_.
