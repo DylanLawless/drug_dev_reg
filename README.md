@@ -22,6 +22,8 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 * Thursday,	September 22 from 16:30 to 19:00.
 * Thursday,	September 29 from 16:30 to 19:00.
 
+* Possible dates: Oct 15 report and Nov 10 for final
+
 ## Structure
 
 This respositry is organised as follows.
