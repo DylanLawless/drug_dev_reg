@@ -23,7 +23,8 @@ Q. Prepare to fail.
 Why is the majority of cash not on the front runner?
 Q. However, investors always say - you have one product but what next? And pitches for single product, investors say no, I want share of whole company...
 
-Case 2 is about BTN152 famous Ab trial.
+Case 2 was unnamed but I believe is about TGN1412 famous Ab trial](https://www.nejm.org/doi/full/10.1056/NEJMoa063842).
+Perhaps it was a more recent, less drematic incident, but the sentiment is the same. 
 
 Case 3 
 convert from chemistry service to cancer Ab company, bought by bigger company. Ends up being a failure because no progress. The story was a sales pitch instead of eviednce-based.
