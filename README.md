@@ -13,6 +13,9 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 ## Coursebook
 [Open PDF - Europe-and-US-DrugDevice-Product-Development-and-Regulations-course-program_20220503.pdf](./doc/week0/Europe-and-US-DrugDevice-Product-Development-and-Regulations-course-program_20220503.pdf)
 
+## Rough temp notes
+* <https://drive.google.com/drive/folders/1-v_HEK0tFXuqQxZn-FgsqFBS9cSJOtDb?usp=sharing>
+
 ## Timetable
 * [x] Week 1: The Drug Development Process
 	- [x] 24/08/22 Choice of Track, Team Case Study Project (TCSP): Sign up for a team
