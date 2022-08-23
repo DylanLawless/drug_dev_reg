@@ -13,6 +13,28 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 ## Coursebook
 [Open PDF - Europe-and-US-DrugDevice-Product-Development-and-Regulations-course-program_20220503.pdf](./doc/week0/Europe-and-US-DrugDevice-Product-Development-and-Regulations-course-program_20220503.pdf)
 
+## Timetable
+* [x] Week 1: The Drug Development Process
+	- [x] 24/08/22 Choice of Track, Team Case Study Project (TCSP): Sign up for a team
+	- [ ] 25/08/22 Meet with Your Instructors Zoom session, 1000-1200.
+	- [x] 25/08/22 Team formation
+	- [x] 26/08/22 Choose a team leader
+	- [ ] 04/09/22 Quiz 1
+* [ ] Week 2: The Device Development Process
+	-[ ] 01/09/22 Meet with Your Instructors session (ungraded)
+	-[ ] 11/09/22 Quiz #2
+* [ ] Week 3: Quality Management Principles
+	- [ ] 15/09/22 Meet with Your Instructors session
+	- [ ] 18/09/22  Quiz #3
+* [ ] Week 4: Intellectual Property
+	- [ ] 25/09/22 Quiz #4
+* [ ] Week 5: Project Management
+	- [ ] 02/10/22 Quiz #5
+* [ ] Week 6: Managing Cultural Diversity in Technical & Scientific Professions
+	- [ ] 09/10/22 Quiz #6
+	- [ ] 15/10/22 Individual Case Study Report
+	- [ ] 10/11/22 Team Presentation
+
 ## Meet-the-instructors sessions 
 * SV 1717
 * Monday,	August 22 from 13:30 to 15:30.
@@ -21,8 +43,6 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 * Thursday,	September 15 from 16:30 to 19:00.
 * Thursday,	September 22 from 16:30 to 19:00.
 * Thursday,	September 29 from 16:30 to 19:00.
-
-* Possible dates: Oct 15 report and Nov 10 for final
 
 ## Structure
 
@@ -52,12 +72,12 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
   - [x] Completed 20220525
 
 #### Week 1
-  - [ ] Welcome by: Prof. Bart Deplancke, Vice Dean of Innovation, EPFL.
-  - [ ] Keynote lecture Research to Business by: Dr. Seng Chin Mah, Chairman of the Board, BioVersys AG.
-  - [ ] Drug Development Process, and External Case Study on Drug Detailed structure, content and deliverables of the course.
-  - [ ] Explanation of multiple-choice quizzes (20 questions x 3).
-  - [ ] Explanation of case studies and expectations.
-  - [ ] Formation of teams with case studies and identification of group leaders.
+  - [x] Welcome by: Prof. Bart Deplancke, Vice Dean of Innovation, EPFL.
+  - [x] Keynote lecture Research to Business by: Dr. Seng Chin Mah, Chairman of the Board, BioVersys AG.
+  - [x] Drug Development Process, and External Case Study on Drug Detailed structure, content and deliverables of the course.
+  - [x] Explanation of multiple-choice quizzes (20 questions x 3).
+  - [x] Explanation of case studies and expectations.
+  - [x] Formation of teams with case studies and identification of group leaders.
   - [ ] Drug Development Process, Preclinical, clinical, CMC. EU Regulatory Process. Presented by: Gautam Maitra, EPFL SV, Catalyze4Life.
   - [ ] Overview of Preclinical Requirements - small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
   - [ ] Clinical Trials in the EU and UK (post-Brexit). Presented by: Anne Hamel, Senior Manager Regulatory Affairs at AC Immune SA.
