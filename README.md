@@ -16,6 +16,29 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 ## Rough temp notes
 * <https://drive.google.com/drive/folders/1-v_HEK0tFXuqQxZn-FgsqFBS9cSJOtDb?usp=sharing>
 
+## Structure
+
+This respositry is organised as follows.
+* Content received will be in `./doc/week/topic/docs`.
+* Content generated will be in `./doc/week/topic/notes`.
+* Content that is larger will receive specific dir in `./projects/`
+
+Written notes will have `tags : [example, week1, etc]` which can be used to cross-link topics. 
+
+```
+├── doc
+│   ├── week1
+│   │   ├── topic
+│   │   │   ├── docs
+│   │   │   ├── notes
+│   ├── week2
+│
+├── projects
+│   ├── topic
+│   ├── topic
+
+```
+
 ## Timetable
 * [x] Week 1: The Drug Development Process
 	- [x] 24/08/22 Choice of Track, Team Case Study Project (TCSP): Sign up for a team
@@ -47,43 +70,21 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 * Thursday,	September 22 from 16:30 to 19:00.
 * Thursday,	September 29 from 16:30 to 19:00.
 
-## Structure
-
-This respositry is organised as follows.
-* Content received will be in `./doc/week/topic/docs`.
-* Content generated will be in `./doc/week/topic/notes`.
-* Content that is larger will receive specific dir in `./projects/`
-
-Written notes will have `tags : [example, week1, etc]` which can be used to cross-link topics. 
-
-```
-├── doc
-│   ├── week1
-│   │   ├── topic
-│   │   │   ├── docs
-│   │   │   ├── notes
-│   ├── week2
-│
-├── projects
-│   ├── topic
-│   ├── topic
-
-```
 
 ## PROGRAM
 #### Enroll
   - [x] Completed 20220525
 
 #### Week 1
-  - [x] Welcome by: Prof. Bart Deplancke, Vice Dean of Innovation, EPFL.
-  - [x] Keynote lecture Research to Business by: Dr. Seng Chin Mah, Chairman of the Board, BioVersys AG.
-  - [x] Drug Development Process, and External Case Study on Drug Detailed structure, content and deliverables of the course.
-  - [x] Explanation of multiple-choice quizzes (20 questions x 3).
-  - [x] Explanation of case studies and expectations.
-  - [x] Formation of teams with case studies and identification of group leaders.
-  - [ ] Drug Development Process, Preclinical, clinical, CMC. EU Regulatory Process. Presented by: Gautam Maitra, EPFL SV, Catalyze4Life.
-  - [ ] Overview of Preclinical Requirements - small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
-  - [ ] Clinical Trials in the EU and UK (post-Brexit). Presented by: Anne Hamel, Senior Manager Regulatory Affairs at AC Immune SA.
+  - [x] 20220822 Welcome by: Prof. Bart Deplancke, Vice Dean of Innovation, EPFL.
+  - [x] 20220822 Keynote lecture Research to Business by: Dr. Seng Chin Mah, Chairman of the Board, BioVersys AG.
+  - [x] 20220822 Drug Development Process, and External Case Study on Drug Detailed structure, content and deliverables of the course.
+  - [x] 20220822 Explanation of multiple-choice quizzes (20 questions x 3).
+  - [x] 20220822 Explanation of case studies and expectations.
+  - [x] 20220822 Formation of teams with case studies and identification of group leaders.
+  - [ ] 20220825 Drug Development Process, Preclinical, clinical, CMC. EU Regulatory Process. Presented by: Gautam Maitra, EPFL SV, Catalyze4Life.
+  - [ ] 20220825 Overview of Preclinical Requirements - small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
+  - [ ] 20220825 Clinical Trials in the EU and UK (post-Brexit). Presented by: Anne Hamel, Senior Manager Regulatory Affairs at AC Immune SA.
   - [ ] FONGIT - Raising the Initial Capital. Presented by: Emmanuel de Watteville, Head of Financing Programs
   - [ ] Satellite lecture - Preclinical Strategy for Developing Drugs in
 Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disease at AbbVie Greater Boston.

@@ -1,0 +1,43 @@
+# File formats and document sharing
+
+We can change anything here.
+To get moving here are some suggestions.
+
+## Messaging 
+
+* Slack - current choice.
+
+## Document sharing
+
+* Google drive - current choice.
+<https://drive.google.com/drive/folders/1-v_HEK0tFXuqQxZn-FgsqFBS9cSJOtDb?usp=sharing>
+* MS 365 Online - alternative
+* Dropbox - alternative
+
+Note:
+* We will make this private to your email address of choice. Currently public.
+* However, anything posted here should be considered public.
+
+## File format
+
+* MS word (docx) is the most universal file format.
+* Google doc format - OK for rough work, but not good for adding citations, etc.
+
+## Bibliography
+
+* Add citation using reference manager, or simply add the hyperlink and Dylan will add citation later.
+* Add the original document to the folder.
+* .bib library file format - current choice.
+* Reference managers can automatically convert to alternative formats if desired.
+* Zotero app - I think the reference manager does not matter, but I use this here. 
+
+## Division of work
+
+1. For week 1 we will read the primary documents and populate the rough-work document.
+2. Once we have an outline for what regulations are required for a complete drug development, we will then 
+	- identify which are most importance to focus on or relevant to our case,
+	- lastly we will pick ~2 each as advised and complete our individual assignments.
+3. We will complete our work in the shared folders and review together to keep on track.
+4. We will then merge the complete document and build the presentation.
+5. We will decide on the presentation method later.
+
