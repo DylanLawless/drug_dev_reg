@@ -24,8 +24,8 @@ The course starts on August 22 and ends on September 30, 2022. This is a 6-week 
 	- [x] 26/08/22 Choose a team leader
 	- [ ] 04/09/22 Quiz 1
 * [ ] Week 2: The Device Development Process
-	-[ ] 01/09/22 Meet with Your Instructors session (ungraded)
-	-[ ] 11/09/22 Quiz #2
+	- [ ] 01/09/22 Meet with Your Instructors session (ungraded)
+	- [ ] 11/09/22 Quiz #2
 * [ ] Week 3: Quality Management Principles
 	- [ ] 15/09/22 Meet with Your Instructors session
 	- [ ] 18/09/22  Quiz #3
