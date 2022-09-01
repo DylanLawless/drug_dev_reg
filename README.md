@@ -42,12 +42,12 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
 ## Timetable
 * [x] Week 1: The Drug Development Process
 	- [x] 24/08/22 Choice of Track, Team Case Study Project (TCSP): Sign up for a team
-	- [ ] 25/08/22 Meet with Your Instructors Zoom session, 1000-1200.
+	- [x] 25/08/22 Meet with Your Instructors, 1000-1200.
 	- [x] 25/08/22 Team formation
 	- [x] 26/08/22 Choose a team leader
 	- [ ] 04/09/22 Quiz 1
 * [ ] Week 2: The Device Development Process
-	- [ ] 01/09/22 Meet with Your Instructors session (ungraded)
+	- [x] 01/09/22 Meet with Your Instructors session (ungraded)
 	- [ ] 11/09/22 Quiz #2
 * [ ] Week 3: Quality Management Principles
 	- [ ] 15/09/22 Meet with Your Instructors session
@@ -82,17 +82,17 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
   - [x] 20220822 Explanation of multiple-choice quizzes (20 questions x 3).
   - [x] 20220822 Explanation of case studies and expectations.
   - [x] 20220822 Formation of teams with case studies and identification of group leaders.
-  - [ ] 20220825 Drug Development Process, Preclinical, clinical, CMC. EU Regulatory Process. Presented by: Gautam Maitra, EPFL SV, Catalyze4Life.
-  - [ ] 20220825 Overview of Preclinical Requirements - small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
-  - [ ] 20220825 Clinical Trials in the EU and UK (post-Brexit). Presented by: Anne Hamel, Senior Manager Regulatory Affairs at AC Immune SA.
-  - [ ] FONGIT - Raising the Initial Capital. Presented by: Emmanuel de Watteville, Head of Financing Programs
+  - [x] 20220825 Drug Development Process, Preclinical, clinical, CMC. EU Regulatory Process. Presented by: Gautam Maitra, EPFL SV, Catalyze4Life.
+  - [x] 20220825 Overview of Preclinical Requirements - small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
+  - [x] 20220825 Clinical Trials in the EU and UK (post-Brexit). Presented by: Anne Hamel, Senior Manager Regulatory Affairs at AC Immune SA.
   - [ ] Satellite lecture - Preclinical Strategy for Developing Drugs in
 Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disease at AbbVie Greater Boston.
 
 ### Week 2
   - [ ] Device Development Process, and External Case Study on Devices.
-  - [ ] MDR, MedTech Regulatory landscape, Three Pillars - Technology, Biology, Clinical.
+  - [ ] FONGIT - Raising the Initial Capital. Presented by: Emmanuel de Watteville, Head of Financing Programs
   - [ ] International Standards. Ary Saaman, Director, Device Technology Management, Alvotech Swiss AG.
+  - [ ] MDR, MedTech Regulatory landscape, Three Pillars - Technology, Biology, Clinical.
   - [ ] Summary of US Regulations. Presented by: Ary Saaman.
   - [ ] Explanation of multiple-choice questions (20).
 
