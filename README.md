@@ -45,7 +45,7 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
 	- [x] 25/08/22 Meet with Your Instructors, 1000-1200.
 	- [x] 25/08/22 Team formation
 	- [x] 26/08/22 Choose a team leader
-	- [ ] 04/09/22 Quiz 1
+	- [x] 04/09/22 Quiz 1
 * [ ] Week 2: The Device Development Process
 	- [x] 01/09/22 Meet with Your Instructors session (ungraded)
 	- [ ] 11/09/22 Quiz #2
