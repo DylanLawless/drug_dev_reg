@@ -48,7 +48,7 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
 	- [x] 04/09/22 Quiz 1
 * [ ] Week 2: The Device Development Process
 	- [x] 01/09/22 Meet with Your Instructors session (ungraded)
-	- [ ] 11/09/22 Quiz #2
+	- [x] 11/09/22 Quiz #2
 * [ ] Week 3: Quality Management Principles
 	- [ ] 15/09/22 Meet with Your Instructors session
 	- [ ] 18/09/22  Quiz #3
@@ -89,22 +89,22 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
 Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disease at AbbVie Greater Boston.
 
 ### Week 2
-  - [ ] Device Development Process, and External Case Study on Devices.
-  - [ ] FONGIT - Raising the Initial Capital. Presented by: Emmanuel de Watteville, Head of Financing Programs
-  - [ ] International Standards. Ary Saaman, Director, Device Technology Management, Alvotech Swiss AG.
-  - [ ] MDR, MedTech Regulatory landscape, Three Pillars - Technology, Biology, Clinical.
-  - [ ] Summary of US Regulations. Presented by: Ary Saaman.
-  - [ ] Explanation of multiple-choice questions (20).
+  - [x] Device Development Process, and External Case Study on Devices.
+  - [x] FONGIT - Raising the Initial Capital. Presented by: Emmanuel de Watteville, Head of Financing Programs
+  - [x] International Standards. Ary Saaman, Director, Device Technology Management, Alvotech Swiss AG.
+  - [x] MDR, MedTech Regulatory landscape, Three Pillars - Technology, Biology, Clinical.
+  - [x] Summary of US Regulations. Presented by: Ary Saaman.
+  - [x] Explanation of multiple-choice questions (20).
 
 ### Week 3
   - [ ] Role of Quality Compliance in the Regulated Industry.
   - [ ] Role of Quality and Compliance. Presented by: Claude Ammann, Claude Ammann Consulting, Epalinges, Switzerland.
   - [ ] US FDA, International Engagement, and the US-EU Mutual Recognition Agreement Presented by: Matthew Scherer, US Food and Drug Administration, Europe Office.
   - [ ] Explanation of multiple-choice questions (20).
-  - [ ] Satellite Lecture - Biotechnology - Virus Filtration Regulatory updates. Presented by: Paul Cashen, Pall Biotech.
-  - [ ] Satellite Lecture - Biotechnology - Virus Filtration Technology updates. Presented by: Lionnel Lueginbuehl, Pall Biotech
 
  ### Week 4
+  - [ ] Satellite Lecture - Biotechnology - Virus Filtration Regulatory updates. Presented by: Paul Cashen, Pall Biotech.
+  - [ ] Satellite Lecture - Biotechnology - Virus Filtration Technology updates. Presented by: Lionnel Lueginbuehl, Pall Biotech
   - [ ] Intellectual Property - A key to Innovation - Intellectual Property in the 21st Century Presented by: Natalia Giovannini, Technology Transfer Manager at EPFL.
   - [ ] Intellectual Property Presented by: Bojana Portmann, AVP IP and Business Development at AC Immune, Lausanne, Vaud, Switzerland.
 
