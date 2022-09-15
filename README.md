@@ -103,8 +103,9 @@ Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disea
   - [ ] Explanation of multiple-choice questions (20).
 
  ### Week 4
-  - [ ] Satellite Lecture - Biotechnology - Virus Filtration Regulatory updates. Presented by: Paul Cashen, Pall Biotech.
-  - [ ] Satellite Lecture - Biotechnology - Virus Filtration Technology updates. Presented by: Lionnel Lueginbuehl, Pall Biotech
+  - [x] Satellite Lecture - Biotechnology - Virus Filtration Technology updates. Presented by: Lionnel Lueginbuehl, Pall Biotech
+  - [x] Satellite Lecture - Biotechnology - Virus Filtration Regulatory updates. Presented by: Stijn de Backer, Pall Biotech.
+  - [x] Shannon Thor, deputy director FDA Europe.
   - [ ] Intellectual Property - A key to Innovation - Intellectual Property in the 21st Century Presented by: Natalia Giovannini, Technology Transfer Manager at EPFL.
   - [ ] Intellectual Property Presented by: Bojana Portmann, AVP IP and Business Development at AC Immune, Lausanne, Vaud, Switzerland.
 
@@ -131,7 +132,6 @@ Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disea
 ## Contact
 Program Director : Gautam Maitra
 Mail : catalyze4life@epfl.ch
-
 
 ## EU regulation
 
