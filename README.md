@@ -46,14 +46,14 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
 	- [x] 25/08/22 Team formation
 	- [x] 26/08/22 Choose a team leader
 	- [x] 04/09/22 Quiz 1
-* [ ] Week 2: The Device Development Process
+* [x] Week 2: The Device Development Process
 	- [x] 01/09/22 Meet with Your Instructors session (ungraded)
 	- [x] 11/09/22 Quiz #2
-* [ ] Week 3: Quality Management Principles
-	- [ ] 15/09/22 Meet with Your Instructors session
-	- [ ] 18/09/22  Quiz #3
-* [ ] Week 4: Intellectual Property
-	- [ ] 25/09/22 Quiz #4
+* [x] Week 3: Quality Management Principles
+	- [x] 15/09/22 Meet with Your Instructors session
+	- [x] 18/09/22  Quiz #3
+* [x] Week 4: Intellectual Property
+	- [x] 25/09/22 Quiz #4
 * [ ] Week 5: Project Management
 	- [ ] 02/10/22 Quiz #5
 * [ ] Week 6: Managing Cultural Diversity in Technical & Scientific Professions
@@ -106,10 +106,10 @@ Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disea
   - [x] Satellite Lecture - Biotechnology - Virus Filtration Technology updates. Presented by: Lionnel Lueginbuehl, Pall Biotech
   - [x] Satellite Lecture - Biotechnology - Virus Filtration Regulatory updates. Presented by: Stijn de Backer, Pall Biotech.
   - [x] Shannon Thor, deputy director FDA Europe.
-  - [ ] Intellectual Property - A key to Innovation - Intellectual Property in the 21st Century Presented by: Natalia Giovannini, Technology Transfer Manager at EPFL.
-  - [ ] Intellectual Property Presented by: Bojana Portmann, AVP IP and Business Development at AC Immune, Lausanne, Vaud, Switzerland.
 
 ### Week 5
+  - [ ] Intellectual Property - A key to Innovation - Intellectual Property in the 21st Century Presented by: Natalia Giovannini, Technology Transfer Manager at EPFL.
+  - [ ] Intellectual Property Presented by: Bojana Portmann, AVP IP and Business Development at AC Immune, Lausanne, Vaud, Switzerland.
   - [ ] Project Management Presented by: Stephan Proennecke.
 
 ### Week 6

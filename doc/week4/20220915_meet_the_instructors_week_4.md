@@ -19,8 +19,7 @@ tags: [meet, week4]
 * Meet the Regulator starts at 18:00 zoom connected to FDA European Office in Brussels.
 
 ## Pre-watching
-* [x]  Bojana Portmann, AVP IP and Business Development at AC Immune, Switzerland. E4L22_IP_Bojana1 <https://tube.switch.ch/videos/ERwGFWdYYl>
-* [ ] Viral filtration videos: 
+* [x] Viral filtration videos: 
 	- Viral Filtration Technology Update <https://tube.switch.ch/videos/Qvry4maO6T>
 	- Viral Filtration - Regulatory & Technology Updates <https://tube.switch.ch/videos/I7W3CI6fbg>
 * [x]  FDA video link posted in last week's Announcement. <https://fda.zoomgov.com/rec/share/eybmDDQiLSjtkmUkUacsybPiWjGdr4rvykjqHHUQWfkHHEsUwIB897Fq8q4sTiVI.tM2xAyxkKuKADZYY>
