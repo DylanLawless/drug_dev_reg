@@ -1,6 +1,6 @@
 ---
 
-tags: [meet, week1]
+tags: [meet week1]
 
 ---
 
