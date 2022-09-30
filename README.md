@@ -54,7 +54,7 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
 	- [x] 18/09/22  Quiz #3
 * [x] Week 4: Intellectual Property
 	- [x] 25/09/22 Quiz #4
-* [ ] Week 5: Project Management
+* [x] Week 5: Project Management
 	- [ ] 02/10/22 Quiz #5
 * [ ] Week 6: Managing Cultural Diversity in Technical & Scientific Professions
 	- [ ] 09/10/22 Quiz #6
@@ -85,7 +85,7 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
   - [x] 20220825 Drug Development Process, Preclinical, clinical, CMC. EU Regulatory Process. Presented by: Gautam Maitra, EPFL SV, Catalyze4Life.
   - [x] 20220825 Overview of Preclinical Requirements - small Molecules and Biotech Products. Presented by: Hasnaà Haddouk, Head of Biological Sciences & Non Clinical Safety Immunology at Sobi - Swedish Orphan Biovitrum, Geneva, Switzerland.
   - [x] 20220825 Clinical Trials in the EU and UK (post-Brexit). Presented by: Anne Hamel, Senior Manager Regulatory Affairs at AC Immune SA.
-  - [ ] Satellite lecture - Preclinical Strategy for Developing Drugs in
+  - [x] Satellite lecture - Preclinical Strategy for Developing Drugs in
 Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disease at AbbVie Greater Boston.
 
 ### Week 2
@@ -97,7 +97,7 @@ Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disea
   - [x] Explanation of multiple-choice questions (20).
 
 ### Week 3
-  - [ ] Role of Quality Compliance in the Regulated Industry.
+  - [x] Role of Quality Compliance in the Regulated Industry.
   - [ ] Role of Quality and Compliance. Presented by: Claude Ammann, Claude Ammann Consulting, Epalinges, Switzerland.
   - [ ] US FDA, International Engagement, and the US-EU Mutual Recognition Agreement Presented by: Matthew Scherer, US Food and Drug Administration, Europe Office.
   - [ ] Explanation of multiple-choice questions (20).
@@ -108,9 +108,9 @@ Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disea
   - [x] Shannon Thor, deputy director FDA Europe.
 
 ### Week 5
-  - [ ] Intellectual Property - A key to Innovation - Intellectual Property in the 21st Century Presented by: Natalia Giovannini, Technology Transfer Manager at EPFL.
-  - [ ] Intellectual Property Presented by: Bojana Portmann, AVP IP and Business Development at AC Immune, Lausanne, Vaud, Switzerland.
-  - [ ] Project Management Presented by: Stephan Proennecke.
+  - [x] Intellectual Property - A key to Innovation - Intellectual Property in the 21st Century Presented by: Natalia Giovannini, Technology Transfer Manager at EPFL.
+  - [x] Intellectual Property Presented by: Bojana Portmann, AVP IP and Business Development at AC Immune, Lausanne, Vaud, Switzerland.
+  - [x] Project Management Presented by: Stephan Proennecke.
 
 ### Week 6
   - [ ] Managing Cultural Diversity in Scientific and Technical Professions. Presented by: Lionel Laroche, President at MultiCultural Business Solutions Inc.
