@@ -55,8 +55,8 @@ Written notes will have `tags : [example, week1, etc]` which can be used to cros
 * [x] Week 4: Intellectual Property
 	- [x] 25/09/22 Quiz #4
 * [x] Week 5: Project Management
-	- [ ] 02/10/22 Quiz #5
-* [ ] Week 6: Managing Cultural Diversity in Technical & Scientific Professions
+	- [x] 02/10/22 Quiz #5
+* [x] Week 6: Managing Cultural Diversity in Technical & Scientific Professions
 	- [ ] 09/10/22 Quiz #6
 	- [ ] 15/10/22 Individual Case Study Report
 	- [ ] 10/11/22 Team Presentation
@@ -100,7 +100,7 @@ Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disea
   - [x] Role of Quality Compliance in the Regulated Industry.
   - [ ] Role of Quality and Compliance. Presented by: Claude Ammann, Claude Ammann Consulting, Epalinges, Switzerland.
   - [ ] US FDA, International Engagement, and the US-EU Mutual Recognition Agreement Presented by: Matthew Scherer, US Food and Drug Administration, Europe Office.
-  - [ ] Explanation of multiple-choice questions (20).
+  - [x] Explanation of multiple-choice questions (20).
 
  ### Week 4
   - [x] Satellite Lecture - Biotechnology - Virus Filtration Technology updates. Presented by: Lionnel Lueginbuehl, Pall Biotech
@@ -113,8 +113,8 @@ Parkinson’s Disease. Presented by: Jan Stoehr, Head, Biology Parkinson's Disea
   - [x] Project Management Presented by: Stephan Proennecke.
 
 ### Week 6
-  - [ ] Managing Cultural Diversity in Scientific and Technical Professions. Presented by: Lionel Laroche, President at MultiCultural Business Solutions Inc.
-  - [ ] CASE STUDY - Doing a Swiss Life Science PhD out of Tanzania - Challenges and Opportunities. Presented by: Lorenz Hofer, PhD Candidate, Swiss Tropical and Public Health Institute, Allschwil.
+  - [x] Managing Cultural Diversity in Scientific and Technical Professions. Presented by: Lionel Laroche, President at MultiCultural Business Solutions Inc.
+  - [x] CASE STUDY - Doing a Swiss Life Science PhD out of Tanzania - Challenges and Opportunities. Presented by: Lorenz Hofer, PhD Candidate, Swiss Tropical and Public Health Institute, Allschwil.
 
 ## The 10 Course Goals and Objectives
 
@@ -138,8 +138,6 @@ Mail : catalyze4life@epfl.ch
 * Guidance - MDCG endorsed documents and other guidance
 <https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en>
 * This page provides a range of documents to assist stakeholders in applying 
-	- [Regulation (EU) 2017/745 on medical devices (MDR): CELEX:02017R0746-20170505](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0746-20170505) and 
-	- [Regulation (EU) 2017/746 on in vitro diagnostic medical devices (IVDR): CELEX:02017R0745-20200424](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02017R0745-20200424)
 
 > MDR: "There are over 500,000 types of medical devices on the EU market. Examples of medical devices are contact lenses, x-ray machines, ventilators, pacemakers, software, breast implants, hip replacements and sticking plasters."
 

@@ -197,6 +197,15 @@ Q. Review of competing IP is critical. How do you research for open-source alter
 <https://tube.switch.ch/videos/E2Sc4gLuoa>
 
 
+### 5 phases of management
+* Project Initiation
+* Project Planning
+* Project Execution
+* Project Monitoring & Control
+* Project Closure
+
+
+
 * Project is mainly driven by the risk assessment (RA).
 	- start with RA and ends when risk has been assessed.
 
