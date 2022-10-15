@@ -1,0 +1,117 @@
+/*
+Theme Name: bpi_2014 - Child
+Theme URI: http://affiliatetheme.io
+Description: Legen... wait for it... Dary!
+Author: endcore Medienagentur
+Author URI: http://endcore.com
+Template: bpi_2014
+Version: 1.0
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i');
+
+body {font-size:14px;line-height: 20px; font-family: 'Roboto', Arial, Helvetica, sans-serif;}
+.tp-revslider-mainul .tp-caption.tp-resizeme { font-family: 'Roboto', Arial, Helvetica, sans-serif !important; }
+
+.home.page #main #content-inner .sponsored-content { display:table; clear:both; width: 100%; margin-left: 0 !important; margin-bottom: 20px; border: 1px solid #c2c2c2; padding: 14px 20px 0px 20px !important; background: #fff !important; box-sizing: border-box; }
+.home.page #main #content-inner .sponsored-content h2 { color: #e32826 !important; }
+.home.page #main #content-inner .sponsored-content .col.two-col { display:block; clear: left; float: left; width: 48%; margin: 0 2% 20px 0; box-sizing: border-box; padding: 0; overflow: hidden; }
+
+.home.page #main #content-inner .sponsored-content .col.two-col h3 { margin-bottom: 0; }
+.home.page #main #content-inner .sponsored-content .col.two-col.sponsored { padding: 10px; background: #feeff2; }
+.home.page #main #content-inner .sponsored-content .col.two-col img { width: 100%; height:auto; }
+.home.page #main #content-inner .sponsored-content .col.two-col.col-2,
+.home.page #main #content-inner .sponsored-content .col.two-col.col-4,
+.home.page #main #content-inner .sponsored-content .col.two-col.col-6,
+.home.page #main #content-inner .sponsored-content .col.two-col.col-8 { clear: none; margin-left: 2%; margin-right: 0 !important; }
+.home.page #main #content-inner .sponsored-content .col.two-col p.read-more a { color: #0F7C84; font-size: 11px; font-weight:bold; }
+
+.home.page #main #content-inner .sponsored-content h3 a { color: #151715; font-size:16px; }
+.home.page #main #content-inner .sponsored-content p { margin-top: 5px; }
+.home.page .sponsored-content span { color: #D7142D; font-size: 11px; }
+.home.page .sponsored-content .sponsored span { display: block;}
+#responsive-menu-container { max-width: 340px; }
+
+
+body button#responsive-menu-button { left: calc(50% - 470px); top: 143px; background: #0F7C84; position: absolute; }
+body.logged-in button#responsive-menu-button { top: 176px; }
+body.logged-in #responsive-menu-container { padding-top: 35px; }
+
+body button#responsive-menu-button:hover { background: none; color: #fff; }
+body button#responsive-menu-button.is-active { transform: translateX(150px) }
+
+.responsive-menu-open #responsive-menu-container.push-left *, .responsive-menu-open #responsive-menu-container.slide-left *,
+.responsive-menu-open #responsive-menu-container.push-left, .responsive-menu-open #responsive-menu-container.slide-left { background: #13818b !important; }
+
+#responsive-menu-container #responsive-menu > li.responsive-menu-item > a, #responsive-menu-container #responsive-menu-wrapper {border: none !important;  background: none !important; font-size: 15px !important; font-weight:bold !important; }
+
+#responsive-menu-container #responsive-menu ul.responsive-menu-submenu {  display: block !important; }
+#responsive-menu-container #responsive-menu li.has-kids .responsive-menu-item-link .responsive-menu-subarrow { display: none; }
+#responsive-menu-container #responsive-menu li.responsive-menu-item a { border-bottom: none !important; }
+
+body button#rmp_menu_trigger-72752, body button#rmp_menu_trigger-82269 { left: calc(50% - 470px); top: 143px; background: #0F7C84; position: absolute; }
+body.logged-in button#rmp_menu_trigger-72752 { top: 142px !important; }
+body.logged-in button#rmp_menu_trigger-82269 { top: 173px !important; }
+#rmp-container-72752, #rmp-container-82269 { 
+    max-width: 340px;
+}
+
+#rmp_menu_trigger-72752, #rmp_menu_trigger-82269 {
+    height: 33px !important;
+}
+
+body button#rmp_menu_trigger-72752:hover, body button#rmp_menu_trigger-82269:hover { background: none; color: #fff; }
+body button#rmp_menu_trigger-72752.is-active, body button#rmp_menu_trigger-82269.is-active { transform: translateX(150px) }
+
+#rmp-container-72752, #rmp-container-72752.rmp-slide-left.rmp-menu-open *,
+#rmp-container-82269, #rmp-container-82269.rmp-slide-left.rmp-menu-open * { background: #13818b !important; }
+
+#rmp-container-72752 .rmp-menu-item > a, #rmp-container-72752 .rmp-menu,
+#rmp-container-82269 .rmp-menu-item > a, #rmp-container-82269 .rmp-menu  {border: none !important;  background: none !important; font-size: 15px !important; font-weight:bold !important; }
+
+#rmp-container-72752 .rmp-submenu,
+#rmp-menu-wrap-82269 .rmp-submenu {  display: block !important; }
+
+#rmp-search-box-72752 .rmp-search-box,
+#rmp-search-box-82269 .rmp-search-box {
+    padding: 0 2% !important;
+    border-radius: 2px !important;
+    margin-top: 15px;
+    outline: none !important;
+}
+
+.new-ad-position .wrapper { text-align: center; }
+
+.custom_editors_choice img { max-width: 100%;}
+.custom_editors_choice,.custom_recent_4_posts { float: left;}
+.custom_editors_choice { width: 40%; padding: 0px 15px; box-sizing: border-box;}
+.custom_recent_4_posts  { width: 60%;}
+.clear { clear: both; overflow: hidden; height: 0px; }
+.custom_insider { background: #fff; padding: 20px; margin-bottom: 20px;}
+.custom_insider_logo { text-align:center;}
+.custom_recent_4_posts li { float: left; width: 50%; list-style: none; margin-bottom: 10px; padding: 0px 15px; box-sizing: border-box; }
+.custom_recent_4_posts li:nth-child(2n+1) { clear: left; }
+.custom_recent_4_posts li a,.custom_editors_choice a { font-weight: bold; margin-bottom: 10px; display: block;}
+.custom_editors_choice a {font-size:128.571%; line-height:1.4; margin-top:5px;}
+.custom_recent_4_posts  img { width: 100%;}
+.custom_insider_articles .archive-layout { clear: both; overflow: hidden;}
+.custom_insider_articles .archive-layout h2.entry-title a { font-size: 14px; font-weight: 700;}
+.custom_insider_articles .archive-layout h2 { line-height: 16px !important; }
+.custom_sub_categories { margin-top: 0px; float: left; width: 50%; box-sizing: border-box; padding: 0px 10px; }
+.archive-layout .custom_subcategories_handle   .hentry { border-bottom: #959494 solid 1px;}
+.custom_subcategories_handle  h4.cat-title { font-size: 20px !important;}
+.archive-layout .custom_subcategories  footer.grid-item-footer { margin-bottom: 20px;}
+.insider_image { text-align: center; width: 892px; margin: 0px auto 15px;}
+.category-bioprocess-insider .widget-sponsor-block, .category-bioprocess-insider .widget_editorsChoice { display: none;}
+.widget-area .widget { list-style: none; }
+.custom_sub_categories .cat-title { font-size: 16px !important;}
+.category-bioprocess-insider .grid-item-large .hentry { height: 260px !important;}
+.grid-item-large .hentry + .hentry { height: 70px !important;}
+.category-bioprocess-insider .PI_SimpleTwitterTweets { display: block;}
+
+.category-bioprocess-insider .custom_recent_4_posts img { height:auto;  width: 100%; }
+.category-bioprocess-insider .custom_editors_choice img { height:auto !important; width: 100% !important; max-width: none !important; margin-bottom: 20px; }
+.custom_bio_ad {width: 728px; height: 90px; margin: 0 auto 20px;}
+
+#header #topNav .menu-main-nav-container > ul > li > a { padding: 32px 14px 0 14px; }
+
