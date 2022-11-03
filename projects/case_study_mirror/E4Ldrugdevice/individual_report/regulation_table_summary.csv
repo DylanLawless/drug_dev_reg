@@ -1,0 +1,14 @@
+Source,Document,link,document_title
+,,,
+EudraLex,,,
+EudraLex,Vol 10 R2 Chapter IV – Inspections,https://health.ec.europa.eu/medicinal-products/eudralex/eudralex-volume-10_en,
+EudraLex,Vol 10 R2,https://health.ec.europa.eu/medicinal-products/eudralex/eudralex-volume-10_en,
+FDA,,,
+ICH,,,
+ICH,E6 (R2),https://database.ich.org/sites/default/files/E6_R2_Addendum.pdf,Integrated addendum to ICH e6(r1): guideline for good clinical practice E6(r2)step 4 version 2016
+ICH,M3 (R2),https://database.ich.org/sites/default/files/M3_R2__Guideline.pdf,Guidance on nonclinical safety studies for the conduct of human clinical trials and marketing authorization for pharmaceuticals M3(R2) version step 4 2009
+ICH,S9,https://database.ich.org/sites/default/files/S9_Guideline.pdf,S9 Nonclinical evaluation for anticancer pharmaceuticals version step 4 2009
+guideline,EU,,
+regulation,EU,,
+regulation,US,,
+Note: this summary file is gerated using the script found in dylan_notes_docs/src/regulation_table_summary.sh

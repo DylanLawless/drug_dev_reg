@@ -1,0 +1,26 @@
+# 20221012 
+
+* Present: Dylan, Mouna
+
+The following notes were written after, but basically summarise what we discussed. I've posted this message on slack for the others. 
+
+The report is a drug development plan. We say things like "we will do study X with X participants to determine X". Preclinical and clinical will be very similar but from animals to humans. The same for CMC, etc.
+
+The most efficient way is to:
+1. Find completed summaries of work that at were done for Trastuzumab (Herceptin).
+2. Duplicate your section of interest.
+3. They may have done many preclinical, clinical trials. You probably only need to copy one trial plan for each section. (Copy the plan, ignore their final result).
+4. Cite the relevant regulatory document which mention that topic (e.g. "In accordance with regulation X will perform study Y by doing Z").
+
+Some useful docs to find those examples are in:
+E4Ldrugdevice > dylan_notes_docs > dylan_literature
+* reg_literature
+* mab_cmc
+
+These 3 are useful:
+* EMA_herceptin-epar-scientific-discussion_en.pdf
+* Herceptin_PM_E_PRODUCT MONOGRAPH.pdf
+* FDA-Briefing-Information-for-the-July-13--2017-Meeting-of-the-Oncologic-Drugs-Advisory-Committee-(PM-Session).pdf
+
+Each of you found and shared these examples, so I am just duplicating. If you do new sections for parts C-E which were not discussed yet, it may be useful to note it in regulation_table.csv to prevent people duplicating work (but not majorly important).
+If you upload on google drive, we might be able to compare. I won't be free for any further calls. Next week we will make a plan for the final group presentation. 

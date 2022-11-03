@@ -1,0 +1,75 @@
+The name of the breast cancer medication trastuzumab can be analyzed as tras-tu-zu-mab. Therefore, the drug is a humanized monoclonal antibody used against a tumor.
+
+as of 2021
+
+tras-tu-zu-mab
+....-ta-..-tug
+
+## tras-tu-zu-mab (Herceptin)
+
+Prefix: -tu- = miscellaneous tumor
+Sub stem: -zu- = humanized
+Stem: -mab = monoclonal antibody (any)
+
+
+
+## Her-tu-mab (Her2 targeted, human, unmodified Ig).
+
+Prefix: -ta- = tumor (incl. mammary)
+source stem: -u- = human
+Stem: -tug = unmodified immunoglobulin
+
+
+
+# New naming
+The prefix carries no special meaning. It should be unique for each medicine and contribute to a well-sounding name.
+Prefix: -ta- = tumor (incl. mammary)
+source stem: -u- = human
+Stem: -tug = unmodified immunoglobulin
+
+Result: Her-tu-tug (Her2 targeted, human, unmodified Ig).
+
+Slightly older naming allows a nicer name:
+Her-tu-mab (Her2 targeted, human, unmodified Ig).
+
+
+ If the constant region is replaced with the human form, the antibody is termed chimeric and the substem used was -xi-. 
+
+<https://en.wikipedia.org/wiki/Nomenclature_of_monoclonal_antibodies>
+
+Naming example: 
+Margetuximab	Margenza[79]	mab	humanized	HER2	Y	breast cancer
+
+
+
+
+The naming of mAb can be confusing. But I think for this example, the following is correct: Hertumab, Hertamab, or Hertutug.
+
+https://en.wikipedia.org/wiki/Nomenclature_of_monoclonal_antibodies
+
+Example: tras-tu-zu-mab (Herceptin)
+Prefix: -tu- = miscellaneous tumor
+Sub stem: -zu- = humanized
+Stem: -mab = monoclonal antibody (any)
+
+Her-tu-mab (Her2 targeted, human, unmodified Ig).
+Prefix: -ta- = tumor (incl. mammary)
+source stem: -u- = human
+Stem: -mab = unmodified immunoglobulin (old)
+Stem: -tug = unmodified immunoglobulin (new)
+
+
+
+
+
+I didn't get time to get to the quiz but I'll let you know later today what the style is. I'll continue to update my notes file as linked about with some more of the regulation document sources. 
+
+
+We didn't finalize the product details yet. On moodle our product description file was already complete but it's very rough so I'd like to do a clean version. 
+
+We said we will do: mAb for oncological treatment. 
+
+There are a few classic examples in product_description.docx. If there are any other suggestions, we can finalise. If not, we can replicate the most classical examples: an anti HER2 mAb for treatment of HER2 receptor positive breast cancer. Like the two examples illustrated here:  
+Cryo-EM structure of HER2 (cyan) extracellular domain-Trastuzumab (Herceptin - red and pink) Fab-Pertuzumab (Perjeta - yellow and orange) Fab complex. Derived from PDB 6OGE https://doi.org/10.1371/journal.pone.0216095.
+
+
